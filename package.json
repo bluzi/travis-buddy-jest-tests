@@ -1,0 +1,22 @@
+{
+  "name": "travis-buddy-jest-tests",
+  "version": "1.0.0",
+  "description": "Visit [TravisBuddy](https://github.com/bluzi/travis-buddy) for more information",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluzi/travis-buddy-jest-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluzi/travis-buddy-jest-tests/issues"
+  },
+  "homepage": "https://github.com/bluzi/travis-buddy-jest-tests#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}

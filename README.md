@@ -1,1 +1,3 @@
-# travis-buddy-jest-tests
+# TravisBuddy Jest Testing Repository
+
+Visit [TravisBuddy](https://github.com/bluzi/travis-buddy) for more information
